@@ -1,2 +1,2 @@
 # websites
-websites made during the curriculum
+This repository contains all my websites that I created during college
